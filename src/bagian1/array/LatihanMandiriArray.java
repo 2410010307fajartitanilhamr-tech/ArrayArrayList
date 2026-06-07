@@ -6,7 +6,7 @@ package bagian1.array;
 
 /**
  *
- * @author Raihan
+ * @author Fajar Titan Ilham Ramadhan 2410010307
  */
 public class LatihanMandiriArray {
    public static void main(String[] args) {
